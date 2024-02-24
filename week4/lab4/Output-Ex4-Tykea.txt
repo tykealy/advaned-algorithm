@@ -1,0 +1,7 @@
+1
+4
+1
+2
+3
+5
+'1' appears 2 times in the list.
